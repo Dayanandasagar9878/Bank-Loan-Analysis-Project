@@ -1,4 +1,4 @@
-# Bank Loan Report: Comprehensive Loan Performance Analysis
+# Bank Loan Analysis: Comprehensive Loan Performance Analysis
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Problem Statement](#problem-statement)

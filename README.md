@@ -1,8 +1,8 @@
-Bank Loan Report: Comprehensive Loan Performance Analysis
-Table of Contents
-Project Overview
-Problem Statement
-Key Features and Metrics
+# Bank Loan Report: Comprehensive Loan Performance Analysis
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. Problem Statement
+3. Key Features and Metrics
 Key Performance Indicators (KPIs)
 Good Loan vs. Bad Loan KPIs
 Loan Status Grid View

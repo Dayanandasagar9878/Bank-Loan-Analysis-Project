@@ -51,6 +51,7 @@ A detailed dashboard offering a consolidated view of all the key metrics and bor
 
 ## Tools and Technologies
 - SQL: For data extraction and aggregation.
+-  - [KPI's](
 - Tableau: For building interactive dashboards and visualizations.
 - - [Dashboards](https://public.tableau.com/views/LoanPortfolioAnalysisReport/SUMMARY?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Python (Pandas, NumPy): For data preprocessing and analysis.

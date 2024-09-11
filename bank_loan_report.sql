@@ -85,17 +85,6 @@ FROM bank_loan_data
 GROUP BY home_ownership
 ORDER BY home_ownership;
 
-#Overview of Bank Loan Metrics by Purpose
-SELECT 
-purpose AS PURPOSE, 
-COUNT(id) AS Total_Loan_Applications,
-SUM(loan_amount) AS Total_Funded_Amount,
-SUM(total_payment) AS Total_Amount_Received
-FROM bank_loan_data
-WHERE grade = 'A'
-GROUP BY purpose
-ORDER BY purpose;
-
 
 
 
